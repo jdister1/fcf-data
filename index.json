@@ -1,5 +1,10 @@
-{"employees":[  
-    {"name":"Shyam", "email":"shyamjaiswal@gmail.com"},  
-    {"name":"Bob", "email":"bob32@gmail.com"},  
-    {"name":"Jai", "email":"jai87@gmail.com"}  
-]}  
+{
+    "fc":[  
+        {"liftType":"squat", "link":"https://youtu.be/DyrRzchGyJY?t=55", "sex":"male", "airDate":"2016-12-24T00:00:00.000Z"},  
+        {"liftType":"dls", "link":"https://youtu.be/DyrRzchGyJY?t=195", "sex":"male", "airDate":"2016-12-24T00:00:00.000Z"},
+        {"liftType":"squat", "link":"https://youtu.be/DyrRzchGyJY?t=286", "sex":"male","airDate":"2016-12-24T00:00:00.000Z"},
+        {"liftType":"dlc", "link":"https://youtu.be/DyrRzchGyJY?t=393", "sex":"male","airDate":"2016-12-24T00:00:00.000Z"},
+        {"liftType":"bench", "link":"https://youtu.be/DyrRzchGyJY?t=606", "sex":"male","airDate":"2016-12-24T00:00:00.000Z"},
+        {"liftType":"dlc", "link":"https://youtu.be/K91vAWbh_G8?t=47", "sex":"male","airDate":"2016-12-24T00:00:00.000Z"}        
+    ]
+}  
