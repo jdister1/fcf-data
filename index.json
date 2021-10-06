@@ -1,10 +1,682 @@
 {
-    "fc":[  
-        {"liftType":"squat", "link":"https://youtu.be/DyrRzchGyJY?t=55", "sex":"male", "airDate":"2016-12-24T00:00:00.000Z"},  
-        {"liftType":"dls", "link":"https://youtu.be/DyrRzchGyJY?t=195", "sex":"male", "airDate":"2016-12-24T00:00:00.000Z"},
-        {"liftType":"squat", "link":"https://youtu.be/DyrRzchGyJY?t=286", "sex":"male","airDate":"2016-12-24T00:00:00.000Z"},
-        {"liftType":"dlc", "link":"https://youtu.be/DyrRzchGyJY?t=393", "sex":"male","airDate":"2016-12-24T00:00:00.000Z"},
-        {"liftType":"bench", "link":"https://youtu.be/DyrRzchGyJY?t=606", "sex":"male","airDate":"2016-12-24T00:00:00.000Z"},
-        {"liftType":"dlc", "link":"https://youtu.be/K91vAWbh_G8?t=47", "sex":"male","airDate":"2016-12-24T00:00:00.000Z"}        
+    "fc": [
+        {
+            "liftType": "sq",
+            "link": "https://youtu.be/XpJQA1J2Xjs?t=44",
+            "queues": [
+                "Bar Position"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-02-07T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/XpJQA1J2Xjs?t=183",
+            "queues": [
+                "Bar Path",
+                "Bottom Position"
+            ],
+            "sex": "m",
+            "repRange": "5",
+            "airDate": "2020-02-07T00:00:00.000Z"
+        },
+        {
+            "liftType": "dlc",
+            "link": "https://youtu.be/XpJQA1J2Xjs?t=376",
+            "queues": [
+                "Stay Over Bar",
+                "Push Floor Away"
+            ],
+            "sex": "m",
+            "repRange": "1",
+            "airDate": "2020-02-07T00:00:00.000Z"
+        },
+        {
+            "liftType": "sq",
+            "link": "https://youtu.be/XpJQA1J2Xjs?t=521",
+            "queues": [
+                "Walkout",
+                "Depth",
+                "Hip Hinge"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-02-07T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/XpJQA1J2Xjs?t=748",
+            "queues": [
+                "Unrack",
+                "Bottom Position"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-02-07T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/Sr5brhLfV4g?t=38",
+            "queues": [
+                "Elbow Tuck",
+                "Bar Path"
+            ],
+            "sex": "f",
+            "repRange": "3",
+            "airDate": "2020-01-31T00:00:00.000Z"
+        },
+        {
+            "liftType": "dlc",
+            "link": "https://youtu.be/Sr5brhLfV4g?t=260",
+            "queues": [
+                "Push Floor Away"
+            ],
+            "sex": "m",
+            "repRange": "4",
+            "airDate": "2020-01-31T00:00:00.000Z"
+        },
+        {
+            "liftType": "sq",
+            "link": "https://youtu.be/Sr5brhLfV4g?t=418",
+            "queues": [
+                "Unrack"
+            ],
+            "sex": "m",
+            "repRange": "2",
+            "airDate": "2020-01-31T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/Sr5brhLfV4g?t=552",
+            "queues": [
+                "Bar Path",
+                "Eccentric Tension"
+            ],
+            "sex": "m",
+            "repRange": "1",
+            "airDate": "2020-01-31T00:00:00.000Z"
+        },
+        {
+            "liftType": "dlc",
+            "link": "https://youtu.be/Sr5brhLfV4g?t=764",
+            "queues": [
+                "Quad Engagement",
+                "Short Lockout"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-01-31T00:00:00.000Z"
+        },
+        {
+            "liftType": "dlc",
+            "link": "https://youtu.be/YA54OBgdt5Q?t=67",
+            "queues": [
+                "Patient Off Floor"
+            ],
+            "sex": "m",
+            "repRange": "4",
+            "airDate": "2020-01-24T00:00:00.000Z"
+        },
+        {
+            "liftType": "sq",
+            "link": "https://youtu.be/YA54OBgdt5Q?t=224",
+            "queues": [
+                "Hip Hinge",
+                "Bottom Position"
+            ],
+            "sex": "m",
+            "repRange": "1",
+            "airDate": "2020-01-24T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/YA54OBgdt5Q?t=399",
+            "queues": [
+                "Unrack",
+                "Bar Path",
+                "Shoulder Position"
+            ],
+            "sex": "m",
+            "repRange": "1",
+            "airDate": "2020-01-24T00:00:00.000Z"
+        },
+        {
+            "liftType": "dls",
+            "link": "https://youtu.be/YA54OBgdt5Q?t=703",
+            "queues": [
+                "Patient Off Floor",
+                "Hips Rising"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-01-24T00:00:00.000Z"
+        },
+        {
+            "liftType": "sq",
+            "link": "https://youtu.be/YA54OBgdt5Q?t=865",
+            "queues": [
+                "Lock Knees",
+                "Depth",
+                "Back Tightness"
+            ],
+            "sex": "m",
+            "repRange": "1",
+            "airDate": "2020-01-24T00:00:00.000Z"
+        },
+        {
+            "liftType": "sq",
+            "link": "https://youtu.be/a4K8B_A1toQ?t=46",
+            "queues": [
+                "Unrack",
+                "Hip Hinge"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-01-17T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/a4K8B_A1toQ?t=236",
+            "queues": [
+                "Leg Drive",
+                "Unrack"
+            ],
+            "sex": "m",
+            "repRange": "4",
+            "airDate": "2020-01-17T00:00:00.000Z"
+        },
+        {
+            "liftType": "dlc",
+            "link": "https://youtu.be/a4K8B_A1toQ?t=406",
+            "queues": [
+                "Back Position",
+                "Pause Deadlifts",
+                "Banded Deadlifts"
+            ],
+            "sex": "m",
+            "repRange": "1",
+            "airDate": "2020-01-17T00:00:00.000Z"
+        },
+        {
+            "liftType": "sq",
+            "link": "https://youtu.be/a4K8B_A1toQ?t=623",
+            "queues": [
+                "Lifting Shoe",
+                "Wider Stance",
+                "Sit Back"
+            ],
+            "sex": "m",
+            "repRange": "5",
+            "airDate": "2020-01-17T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/a4K8B_A1toQ?t=781",
+            "queues": [
+                "Asymmetry",
+                "Shoulder Position",
+                "Leg Drive"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-01-17T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/eBKtrfajktI?t=26",
+            "queues": [
+                "Bar Path",
+                "Shoulder Position"
+            ],
+            "sex": "m",
+            "repRange": "5",
+            "airDate": "2020-01-10T00:00:00.000Z"
+        },
+        {
+            "liftType": "dls",
+            "link": "https://youtu.be/eBKtrfajktI?t=267",
+            "queues": [
+                "Widen Stance",
+                "Stack Joints"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-01-10T00:00:00.000Z"
+        },
+        {
+            "liftType": "sq",
+            "link": "https://youtu.be/eBKtrfajktI?t=410",
+            "queues": [
+                "Bar Position",
+                "Wider Stance"
+            ],
+            "sex": "m",
+            "repRange": "2",
+            "airDate": "2020-01-10T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/eBKtrfajktI?t=531",
+            "queues": [
+                "Touch Consistency"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-01-10T00:00:00.000Z"
+        },
+        {
+            "liftType": "dls",
+            "link": "https://youtu.be/eBKtrfajktI?t=654",
+            "queues": [
+                "Lockout",
+                "Shoulder Position"
+            ],
+            "sex": "m",
+            "repRange": "1",
+            "airDate": "2020-01-10T00:00:00.000Z"
+        },
+        {
+            "liftType": "dlc",
+            "link": "https://youtu.be/vLfHmc1yyPI?t=9",
+            "queues": [
+                "Great Lift"
+            ],
+            "sex": "m",
+            "repRange": "1",
+            "airDate": "2020-05-01T00:00:00.000Z"
+        },
+        {
+            "liftType": "sq",
+            "link": "https://youtu.be/vLfHmc1yyPI?t=79",
+            "queues": [
+                "Rushing Out Of Bottom"
+            ],
+            "sex": "m",
+            "repRange": "5",
+            "airDate": "2020-05-01T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/vLfHmc1yyPI?t=134",
+            "queues": [
+                "Maintain Back Position",
+                "Touch Consistency"
+            ],
+            "sex": "f",
+            "repRange": "3",
+            "airDate": "2020-05-01T00:00:00.000Z"
+        },
+        {
+            "liftType": "dlc",
+            "link": "https://youtu.be/vLfHmc1yyPI?t=290",
+            "queues": [
+                "Widen Grip",
+                "Push Floor Away"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-05-01T00:00:00.000Z"
+        },
+        {
+            "liftType": "sq",
+            "link": "https://youtu.be/0HfufzIbltk?t=17",
+            "queues": [
+                "Forefoot Pressure",
+                "Narrow Stance"
+            ],
+            "sex": "m",
+            "repRange": "5",
+            "airDate": "2020-07-20T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/0HfufzIbltk?t=154",
+            "queues": [
+                "Widen Grip",
+                "Touch Consistency",
+                "Leg Drive"
+            ],
+            "sex": "m",
+            "repRange": "5",
+            "airDate": "2020-07-20T00:00:00.000Z"
+        },
+        {
+            "liftType": "dls",
+            "link": "https://youtu.be/0HfufzIbltk?t=281",
+            "queues": [
+                "Pulling Slack",
+                "Tightening Through Lats"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-07-20T00:00:00.000Z"
+        },
+        {
+            "liftType": "sq",
+            "link": "https://youtu.be/0HfufzIbltk?t=434",
+            "queues": [
+                "Bracing"
+            ],
+            "sex": "m",
+            "repRange": "3",
+            "airDate": "2020-07-20T00:00:00.000Z"
+        },
+        {
+            "liftType": "bn",
+            "link": "https://youtu.be/0HfufzIbltk?t=646",
+            "queues": [
+                "Leg Drive"
+            ],
+            "sex": "m",
+            "repRange": "2",
+            "airDate": "2020-07-20T00:00:00.000Z"
+        }
+    ],
+    "queues": [
+        {
+            "type": "sq",
+            "value": "Bar Position"
+        },
+        {
+            "type": "bn",
+            "value": "Bar Path"
+        },
+        {
+            "type": "bn",
+            "value": " Bottom Position"
+        },
+        {
+            "type": "bn",
+            "value": " "
+        },
+        {
+            "type": "dlc",
+            "value": "Stay Over Bar"
+        },
+        {
+            "type": "dlc",
+            "value": " Push Floor Away"
+        },
+        {
+            "type": "dlc",
+            "value": " "
+        },
+        {
+            "type": "sq",
+            "value": "Walkout"
+        },
+        {
+            "type": "sq",
+            "value": " Depth"
+        },
+        {
+            "type": "sq",
+            "value": " Hip Hinge"
+        },
+        {
+            "type": "bn",
+            "value": "Unrack"
+        },
+        {
+            "type": "bn",
+            "value": " Bottom Position"
+        },
+        {
+            "type": "bn",
+            "value": " "
+        },
+        {
+            "type": "bn",
+            "value": "Elbow Tuck"
+        },
+        {
+            "type": "bn",
+            "value": " Bar Path"
+        },
+        {
+            "type": "bn",
+            "value": " "
+        },
+        {
+            "type": "dlc",
+            "value": "Push Floor Away"
+        },
+        {
+            "type": "sq",
+            "value": "Unrack"
+        },
+        {
+            "type": "sq",
+            "value": " "
+        },
+        {
+            "type": "bn",
+            "value": "Bar Path"
+        },
+        {
+            "type": "bn",
+            "value": " Eccentric Tension"
+        },
+        {
+            "type": "dlc",
+            "value": "Quad Engagement"
+        },
+        {
+            "type": "dlc",
+            "value": " Short Lockout"
+        },
+        {
+            "type": "dlc",
+            "value": "Patient Off Floor"
+        },
+        {
+            "type": "dlc",
+            "value": " "
+        },
+        {
+            "type": "sq",
+            "value": "Hip Hinge"
+        },
+        {
+            "type": "sq",
+            "value": " Bottom Position"
+        },
+        {
+            "type": "bn",
+            "value": "Unrack"
+        },
+        {
+            "type": "bn",
+            "value": " Bar Path"
+        },
+        {
+            "type": "bn",
+            "value": " Shoulder Position"
+        },
+        {
+            "type": "dls",
+            "value": "Patient Off Floor"
+        },
+        {
+            "type": "dls",
+            "value": " Hips Rising"
+        },
+        {
+            "type": "sq",
+            "value": "Lock Knees"
+        },
+        {
+            "type": "sq",
+            "value": " Depth"
+        },
+        {
+            "type": "sq",
+            "value": " Back Tightness"
+        },
+        {
+            "type": "sq",
+            "value": "Unrack"
+        },
+        {
+            "type": "sq",
+            "value": " Hip Hinge"
+        },
+        {
+            "type": "sq",
+            "value": " "
+        },
+        {
+            "type": "bn",
+            "value": "Leg Drive"
+        },
+        {
+            "type": "bn",
+            "value": " Unrack"
+        },
+        {
+            "type": "dlc",
+            "value": "Back Position"
+        },
+        {
+            "type": "dlc",
+            "value": " Pause Deadlifts"
+        },
+        {
+            "type": "dlc",
+            "value": " Banded Deadlifts"
+        },
+        {
+            "type": "sq",
+            "value": "Lifting Shoe"
+        },
+        {
+            "type": "sq",
+            "value": " Wider Stance"
+        },
+        {
+            "type": "sq",
+            "value": " Sit Back"
+        },
+        {
+            "type": "bn",
+            "value": "Asymmetry"
+        },
+        {
+            "type": "bn",
+            "value": " Shoulder Position"
+        },
+        {
+            "type": "bn",
+            "value": " Leg Drive"
+        },
+        {
+            "type": "bn",
+            "value": "Bar Path"
+        },
+        {
+            "type": "bn",
+            "value": " Shoulder Position"
+        },
+        {
+            "type": "bn",
+            "value": " "
+        },
+        {
+            "type": "dls",
+            "value": "Widen Stance"
+        },
+        {
+            "type": "dls",
+            "value": " Stack Joints"
+        },
+        {
+            "type": "dls",
+            "value": " "
+        },
+        {
+            "type": "sq",
+            "value": "Bar Position"
+        },
+        {
+            "type": "sq",
+            "value": " Wider Stance"
+        },
+        {
+            "type": "bn",
+            "value": "Touch Consistency"
+        },
+        {
+            "type": "dls",
+            "value": "Lockout"
+        },
+        {
+            "type": "dls",
+            "value": " Shoulder Position"
+        },
+        {
+            "type": "sq",
+            "value": "Rushing Out Of Bottom"
+        },
+        {
+            "type": "sq",
+            "value": " "
+        },
+        {
+            "type": "bn",
+            "value": "Maintain Back Position"
+        },
+        {
+            "type": "bn",
+            "value": " Touch Consistency"
+        },
+        {
+            "type": "dlc",
+            "value": "Widen Grip"
+        },
+        {
+            "type": "dlc",
+            "value": " Push Floor Away"
+        },
+        {
+            "type": "sq",
+            "value": "Forefoot Pressure"
+        },
+        {
+            "type": "sq",
+            "value": " Narrow Stance"
+        },
+        {
+            "type": "bn",
+            "value": "Widen Grip"
+        },
+        {
+            "type": "bn",
+            "value": " Touch Consistency"
+        },
+        {
+            "type": "bn",
+            "value": " Leg Drive"
+        },
+        {
+            "type": "dls",
+            "value": "Pulling Slack"
+        },
+        {
+            "type": "dls",
+            "value": " Tightening Through Lats"
+        },
+        {
+            "type": "sq",
+            "value": "Bracing"
+        },
+        {
+            "type": "sq",
+            "value": " "
+        },
+        {
+            "type": "bn",
+            "value": "Leg Drive"
+        }
     ]
-}  
+}
